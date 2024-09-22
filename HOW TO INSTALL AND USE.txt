@@ -1,0 +1,22 @@
+ To use these playermodels, here is a quick step by step process.
+
+ HOW TO USE MODELS
+ 1. Download the "Customizable Playermodels" mod for your    respective version of Minecraft.
+ 2. In your Minecraft root directory, add a folder named "player_models"
+ 3. To use your models, simple drag and drop any .cpmproject files with "exported" in their name into the "player_models" folder.
+ 4. When in-game in Minecraft, press the G key. This should open up the CPM menu. From there, you can do a variety fo things, including:
+ - Playing a model's animations, turning on and off skin layers, as well as resetting gestures/emotes and poses.
+ - Turning off your model by clicking "Render Models [Not Bound]" until there is no X.
+ - Reloading your models.
+ - And many other things.
+
+ But in this menu, simply click "Models", find your model, then click "Apply". Have fun with your new model(s).
+
+ HOW TO EDIT MODELS
+ 1. Go to your Minecraft home page, and in the top left corner, there will be a button labelled "Open Skin Editor".
+ 2. In the Skin Editor, click "File", and then "Load".
+ 3. From the new pop-up, it's preferred to click the 3 dots icon just above the "Ok" so you can properly browse your computer's files. Look for projects specifically ending in "NameProject.cpmproject".
+ 4. Double click your project, and then, when sent back to Minecraft, simply click "Ok". Your CPM Model should be on display and you can edit any aspect of it.
+ 5. ALWAYS REMEMBER TO SAVE OFTEN! If not, the mod autosaves often in-case.
+
+ Thank you for commissioning me, I hope you enjoy my work.
